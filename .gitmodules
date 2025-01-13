@@ -1,0 +1,3 @@
+[submodule "bookstoreDLL/bookstoreDLL"]
+	path = bookstoreDLL/bookstoreDLL
+	url = https://github.com/Kasyanov-Igor/bookstoreDLL.git
